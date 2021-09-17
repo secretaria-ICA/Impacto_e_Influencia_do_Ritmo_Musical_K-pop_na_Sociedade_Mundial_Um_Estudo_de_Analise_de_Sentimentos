@@ -1,9 +1,8 @@
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
 # Título do Trabalho
 
-#### Aluno: [Nome Sobrenome](https://github.com/link_do_github)
-#### Orientadora: [Nome Sobrenome](https://github.com/link_do_github) e [Nome Sobrenome](https://github.com/link_do_github).
-#### Co-orientador(/a/es/as): [Nome Sobrenome](https://github.com/link_do_github) e [Nome Sobrenome](https://github.com/link_do_github). <!-- caso não aplicável, remover esta linha -->
+#### Aluno: [Mayta Soares Custodio](https://github.com/link_do_github)
+#### Orientadora: [Leonardo Forero Mendoza](https://github.com/leofome8) 
 
 ---
 
@@ -12,11 +11,6 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 <!-- para os links a seguir, caso os arquivos estejam no mesmo repositório que este README, não há necessidade de incluir o link completo: basta incluir o nome do arquivo, com extensão, que o GitHub completa o link corretamente -->
 - [Link para o código](https://github.com/link_do_repositorio). <!-- caso não aplicável, remover esta linha -->
 
-- [Link para a monografia](https://link_da_monografia.com). <!-- caso não aplicável, remover esta linha -->
-
-- Trabalhos relacionados: <!-- caso não aplicável, remover estas linhas -->
-    - [Nome do Trabalho 1](https://link_do_trabalho.com).
-    - [Nome do Trabalho 2](https://link_do_trabalho.com).
 
 ---
 
@@ -24,49 +18,48 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 <!-- trocar o texto abaixo pelo resumo do trabalho, em português -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
-
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
-
-Donec molestie, ante quis tempus consequat, mauris ante fringilla elit, euismod hendrerit leo erat et felis. Mauris faucibus odio est, non sagittis urna maximus ut. Suspendisse blandit ligula pellentesque tincidunt malesuada. Sed at ornare ligula, et aliquam dui. Cras a lectus id turpis accumsan pellentesque ut eget metus. Pellentesque rhoncus pellentesque est et viverra. Pellentesque non risus velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+O presente trabalho tem por objetivo realizar um estudo de análise de sentimento sobre o ritmo musical K-pop em tweets publicados por usuários na plataforma 'Twitter', a fim de entender quais as polaridades de sentimentos que fizeram esse ritmo ter um engajamento mundialmente notado em um curto período, visando o aproveitamento em estratégias de marketing. 
 
 ### Abstract <!-- Opcional! Caso não aplicável, remover esta seção -->
 
 <!-- trocar o texto abaixo pelo resumo do trabalho, em inglês -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
-
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
-
-Donec molestie, ante quis tempus consequat, mauris ante fringilla elit, euismod hendrerit leo erat et felis. Mauris faucibus odio est, non sagittis urna maximus ut. Suspendisse blandit ligula pellentesque tincidunt malesuada. Sed at ornare ligula, et aliquam dui. Cras a lectus id turpis accumsan pellentesque ut eget metus. Pellentesque rhoncus pellentesque est et viverra. Pellentesque non risus velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+This study has the purpose to conduct a sentiment analysis study on the K-pop music in tweets published by users on the 'Twitter' platform, in order to understand which sentiment polarities made this rhythm have a globally noticed engagement in a short period, aiming to be used in marketing strategies.
 
 ### 1. Introdução
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
+Essa análise pode auxiliar no entendimento e definição de estratégias ligadas a estratégias de marketing para utilizar o alto engajamento dos 'fãs' de k-pop em ações de promoção de marca, vendas de produtos associados, impulsionamento de personalidades no mundo digital, causas humanitárias e incrementação de comércio geral.
+A ideia do trabalho surgiu durante o curso de Bi Master ao serem ministradas as aulas sobre análise de sentimento. O momento social coincidiu com a percepção de um alto impacto sofrido pelo domínio do ritmo K-pop amplamente divulgado nas redes sociais. Ao escutar e pesquisar sobre a música pop sul coreana e os diversos preconceitos e repercussões, notei o quanto os artistas de k-pop influenciam e ditam tendências. Comportamentos de pessoas de todas as faixas etárias, etnias e poder econômico convergem para o mesmo universo mesmo com o contexto individual diferentes. 
+Com esses pensamentos, quis validar através do processamento de linguagem natural, o sentimento geral sobre o K-pop e para qual lado a polaridade desse movimento tende e se destaca dentro de uma das redes sociais que concentra a maior troca de informação sobre o cotidiano da população, o Twitter. 
+A aplicabilidade do estudo visa mostrar ao mercado de consumo o quanto esse ritmo musical é mestre em aplicar técnicas modernas de marketing que integram e engajam inúmeros tipos de vendas de ingressos, produtos e movimentos sociais, chegando inclusive a quebrar recordes de vendas nos Estados Unidos e music charts da Billboard, mesmo o país sendo resistente à entrada de cultura estrangeira.
+O ritmo K-pop da Coréia do Sul é um movimento que existe há mais de três décadas, o sucesso é creditado aos fãs e ao alto nível de comprometimento que a indústria da música envolve os seguidores. Muitas marcas, sites, personalidades artísticas já sentiram a "onda coreana" ao tratar os artistas desse ritmo com xenofobia e em retorno, sentir a retaliação em seus números de vendas, visualizações e boicote direto. 
 
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
+Em contrapartida, os inúmeros ramos comerciais como marca de roupa, fabricantes de carro, rede de fast food e artistas viram nessa situação a oportunidade de usar o K-pop como aliado. A indústria sul coreana usa fortemente o fan marketing, nessa estratégia o artista, chamado de ‘idol’, é colocado em uma posição idealizada, mas ao mesmo tempo acessível e humana, criando a aproximação dos fãs à sensação de conhecer bem o seu artista favorito e entendendo os seus gostos e preferências, se tornando assim um tipo de amigo capaz de apoiar todas as instruções desse artista.
+A estratégia é tão bem-sucedida que o The Korea Foundation (ligada ao Ministério das Relações Exteriores da Coréia) estimou que aproximadamente mais de 80 milhões de pessoas de 113 países diferentes consomem a cultura sul coreana. O maior grupo de k-pop do mundo ganha entre US$ 2,6 e US$ 4,5 milhões, valores equivalentes a R$ 13 e R$ 23 milhões, apenas em parcerias dentro da Coréia do Sul. Para marcas estrangeiras, chega a US$ 8,9 milhões, aproximadamente R$ 46 milhões. Resumindo, a indústria do K-Pop movimenta R$ 16 bilhões por ano na Coreia do Sul, obtendo o apoio que o governo sul-coreano tem ao entretenimento local. 
+
 
 ### 2. Modelagem
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
+Planejamento por etapas:
+Carregar as bibliotecas necessárias para importação do database a ser analisado,  desenvolvimento do tratamento da base e análise de sentimento como Pandas, Tweepy, AFINN, NLTK, Spacy, Beautiful soup;
+Configurar a API Tweepy para obtenção dos dados a serem analisados;
+Extração, visualização, análise dos dados e formatação para dataframe;
+Pré-processamento do texto;
+Análise de Sentimentos;
+Avaliação dos resultados;
+Conclusão Final.
 
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
 
 ### 3. Resultados
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
-
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
+Para ter um resultado com maior acurácia, foram utilizadas duas bibliotecas para validar a análise de sentimento dos 400 tweets importados, Afinn e Nltk. De acordo com o desenvolvimento do código, o resultado foi igual para as duas aplicações, mostrando que massivamente o sentimento positivo sobrepõe os comentários negativos e os neutros em aproximadamente x %. 
 
 ### 4. Conclusões
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
-
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
-
+Através do uso do processamento de linguagem natural com a análise de sentimento nesse trabalho, pude demonstrar como pode haver o aproveitamento desse movimento social em prol de estimular vendas por meio de marketing ativo para produtos em geral, promoção de visualizações em canais de streaming, dentre outros ramos, apenas pela menção e apoio ao k-pop.
 ---
 
-Matrícula: 123.456.789
+Matrícula: 192.671.147
 
 Pontifícia Universidade Católica do Rio de Janeiro
 
