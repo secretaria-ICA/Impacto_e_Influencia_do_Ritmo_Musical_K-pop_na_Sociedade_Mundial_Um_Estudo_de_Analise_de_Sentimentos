@@ -57,6 +57,7 @@ Para ter um resultado com maior acurácia, foram utilizadas duas bibliotecas par
 ### 4. Conclusões
 
 Através do uso do processamento de linguagem natural com a análise de sentimento nesse trabalho, pude demonstrar como pode haver o aproveitamento desse movimento social em prol de estimular vendas por meio de marketing ativo para produtos em geral, promoção de visualizações em canais de streaming, dentre outros ramos, apenas pela menção e apoio ao k-pop.
+
 ---
 
 Matrícula: 192.671.147
