@@ -9,7 +9,7 @@
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
 <!-- para os links a seguir, caso os arquivos estejam no mesmo repositório que este README, não há necessidade de incluir o link completo: basta incluir o nome do arquivo, com extensão, que o GitHub completa o link corretamente -->
-- [Link para o código](https://github.com/link_do_repositorio). <!-- caso não aplicável, remover esta linha -->
+- [Link para o código](https://github.com/maytasc/Bi_Master_TCC_sentiment_analysis/blob/main/TCC_An%C3%A1lise_de_sentimento_Kpop_Mayta_Soares_.ipynb). <!-- caso não aplicável, remover esta linha -->
 
 
 ---
@@ -52,7 +52,7 @@ Conclusão Final.
 
 ### 3. Resultados
 
-Para ter um resultado com maior acurácia, foram utilizadas duas bibliotecas para validar a análise de sentimento dos 400 tweets importados, Afinn e Nltk. De acordo com o desenvolvimento do código, o resultado foi igual para as duas aplicações, mostrando que massivamente o sentimento positivo sobrepõe os comentários negativos e os neutros em aproximadamente x %. 
+Para ter um resultado com maior acurácia, foram utilizadas duas bibliotecas para validar a análise de sentimento dos 400 tweets importados, Afinn e Nltk. De acordo com o desenvolvimento do código, o resultado foi igual para as duas aplicações, mostrando que massivamente o sentimento positivo sobrepõe os comentários negativos em 150%. 
 
 ### 4. Conclusões
 
