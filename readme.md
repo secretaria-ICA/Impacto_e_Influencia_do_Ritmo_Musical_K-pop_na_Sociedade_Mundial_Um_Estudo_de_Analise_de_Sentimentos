@@ -1,5 +1,5 @@
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
-# Impacto e Inflência do ritmo musical K-pop na sociedade mundial: Um estudo de análise de sentimento através da rede social Twitter
+# Impacto e Influência do ritmo musical K-pop na sociedade mundial: Um estudo de análise de sentimento através da rede social Twitter
 
 #### Aluno: [Mayta Soares Custodio](https://github.com/link_do_github)
 #### Orientadora: [Leonardo Forero Mendoza](https://github.com/leofome8) 
